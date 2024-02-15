@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap')
 *{
 	padding: 0px;
 	margin: 0px;
 	box-sizing: border-box;
-	font-family: 'Poppins', sans-serif;
+	font-family: "Protest Revolution", sans-serif;
 }
 .mdiv{
 	height: 100vh;
@@ -35,7 +35,7 @@
 
 .heading{
 	color: royalblue;
-/*	font-family: Arial Black;*/
+	font-family: "Protest Revolution", sans-serif;
 	font-size: 15px;
 	text-align: center;
 	margin-bottom: 15px;
@@ -43,7 +43,7 @@
 
 input[type="text"]{
 	height: 30px;
-	width: 180px;
+	width: 250px;
 	padding-left: 10px;
 	outline: none;
 	font-weight: bolder;
@@ -69,17 +69,17 @@ input[type="text"]{
 
 #city{
  	color: orangered;
-	font-family: Arial Black;
+	font-family:Protest Revolution ;
  	font-size: 20px;
 }
 
 .measurement{
-	font-family:sans-serif;
+/*	font-family:sans-serif;*/
 	font-weight: bolder;
  }
  
 .headings{
 	color: royalblue;
-/*	font-family: Arial Black;*/
+	font-family: "Protest Revolution", sans-serif;
 	font-size: 12px;
 }
